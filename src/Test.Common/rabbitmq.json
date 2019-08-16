@@ -1,0 +1,9 @@
+{
+  "RabbitMqValues": {
+    "Username": "guest",
+    "Password": "guest",
+    "HostAddress": "rabbitmq://localhost/",
+    "DestinationAddress": "rabbitmq://localhost/test-service",
+    "QueueName": "test-service"
+  }
+}
